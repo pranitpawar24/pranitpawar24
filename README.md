@@ -1,23 +1,87 @@
-# 💫 About Me:
-Working on ML & software development projects<br>Learning DSA, ML, DBMS & backend systems<br>Open to internships & job-focused collaborations<br>Ask me about Java, Python & core CS<br>Focused on building scalable, real-world solutions
+<!-- Banner -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pranit%20Pawar&fontSize=60&fontAlignY=40" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Pranit Pawar</h1>
+<h3 align="center">🚀 ML Enthusiast | Software Developer | Problem Solver</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranit-pawar-534a70251/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawnit024@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranitpawar24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pranitpawar24&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitpawar24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Scalable+Software;Machine+Learning+Apps;DSA+%7C+Java+%7C+Python;Learning+Every+Day" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pranitpawar24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+- 🔭 Working on **Machine Learning & Software Development projects**
+- 🌱 Learning **DSA, ML, DBMS & Backend Systems**
+- 💼 Open to **Internships & Collaborations**
+- 💬 Ask me about **Java, Python & Core CS**
+- ⚡ Focused on **Scalable Real-World Solutions**
 
-<!---
-pranitpawar24/pranitpawar24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranit-pawar-534a70251/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:pawnit024@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/ppranitps20">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Featured Projects
+
+### 🚀 **ppranitps20.github.io**
+> 🌐 My Portfolio built with TailwindCSS  
+A personal portfolio site showing projects and strengths using modern frontend tech — perfect to show recruiters your web dev skills. :contentReference[oaicite:1]{index=1}  
+🔗 https://github.com/ppranitps20/ppranitps20.github.io
+
+<!-- Add more projects here if you have others; duplicate the pattern below -->
+<!--
+### 🧠 Project Name
+> Short project description  
+🔗 https://github.com/USERNAME/REPO
+-->
+
+---
+
+## 🧠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,nodejs,spring,firebase,mysql,tensorflow,figma&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ppranitps20&show_icons=true&theme=dracula&hide_border=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ppranitps20&theme=dracula&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppranitps20&layout=compact&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ppranitps20&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ppranitps20&icon=5&color=6"/>
+</p>
+
+<p align="center">
+✨ “Code with purpose. Build with impact.” ✨
+</p>
